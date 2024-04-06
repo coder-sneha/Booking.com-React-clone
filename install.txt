@@ -1,0 +1,10 @@
+npm i react-awesome-slider
+npm i date-fns
+ npm i react-date-range
+npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
+  npm i --save @awesome.me/kit-KIT_CODE
+ npm install --save reactstrap react react-dom
+
+
+npm i react-notifications-component
+
